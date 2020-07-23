@@ -1,0 +1,41 @@
+<h2> Hi, My name is Tan Nguyen Le! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
+<img align='right' src="https://user-images.githubusercontent.com/35571958/87239980-b3130b00-c432-11ea-9571-24c85defd75a.png" width="350" height = "300">
+<p><em>Pursuing Bachalor from <a href="http://www.pondiuni.edu.in/">University of Science, Ho Chi Minh City, VietNam</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  <br>Portfolio <a href = "https://tannguyenle.info/about/">Link </a><img src = "https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width = "30">
+</em></p>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```js
+export default () => ({
+  nationality: "Vietnam",
+  pronouns: "He" | "Him",
+  askMeAbout: [
+    "webdev", "reactjs dev", "front-end dev", "html",
+    "css", "javascript", "typescript", "graphql", "nodejs"
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["reactjs", "angular", "vuejs"],
+      css: ["themeui", "bootstrap", "tailwind"]
+    },
+    backEnd: {
+      js: ["nodejs", "graphql", "express", "fastify],
+      misc: ["sketch", "macos", "windows"]
+    },
+    databases: ["MSSQL", "MySQL", "Postgresql"]
+  },
+  experience: "I have over 10 years in software development." 
+});
+```
+
+[![Tan Nguyen Le's github stats](https://github.com/nguyenletan/api?username=nguyenletan&hide=["prs"])](https://github.com/nguyenletan/github-readme-stats)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people. So, I would be glad if I get to know some :)</em>
+<p><img src = "https://media.giphy.com/media/10LKovKon8DENq/giphy.gif"></p>
+
+<a href="mailto:souvikghosh199831@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nguyenletan@gmail.com" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/tan-nguyen-le-b3797023/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+---
+
+⭐️ From [@nguyenletan](https://github.com/nguyenletan)
