@@ -1,10 +1,10 @@
 <h2> Hi, My name is Tan Nguyen Le! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/35571958/87239980-b3130b00-c432-11ea-9571-24c85defd75a.png" width="350" height = "300">
-<p><em>Pursuing Bachalor from <a href="http://www.pondiuni.edu.in/">University of Science, Ho Chi Minh City, VietNam</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Pursuing Bachelor from <a href="https://en.hcmus.edu.vn/">University of Science, Ho Chi Minh City, VietNam</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   <br>Portfolio <a href = "https://tannguyenle.info/about/">Link </a><img src = "https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width = "30">
 </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me...  
 
 ```js
 export default () => ({
@@ -29,7 +29,7 @@ export default () => ({
 });
 ```
 
-[![Tan Nguyen Le's github stats](https://github.com/nguyenletan/api?username=nguyenletan&hide=["prs"])](https://github.com/nguyenletan/github-readme-stats)
+[![Tan Nguyen Le's github stats](https://github-readme-stats.vercel.app/api?username=nguyenletan&hide=["prs"])](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people. So, I would be glad if I get to know some :)</em>
 <p><img src = "https://media.giphy.com/media/10LKovKon8DENq/giphy.gif"></p>
