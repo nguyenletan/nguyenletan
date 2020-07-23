@@ -31,7 +31,7 @@ export default () => ({
 
 [![Tan Nguyen Le's github stats](https://github-readme-stats.vercel.app/api?username=nguyenletan&hide=["prs"])](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people. So, I would be glad if I get to know some :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Connecting with different people is my hobby. So, I would be glad if I get to know someone! :)</em>
 <p><img src = "https://media.giphy.com/media/10LKovKon8DENq/giphy.gif"></p>
 
 <a href="mailto:souvikghosh199831@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nguyenletan@gmail.com" alt="Gmail"></a>
