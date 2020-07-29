@@ -3,9 +3,7 @@
   <br>Portfolio <a href = "https://tannguyenle.info/about/">Link </a><img src = "https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width = "30">
 </em></p>
 <img align='right' src="https://github.com/nguyenletan/nguyenletan/blob/master/boy.jpeg" width="350">
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me...  
-
+  
 ```js
 export default () => ({
   nationality: "Vietnam",
