@@ -1,6 +1,6 @@
 <h2> Hi, My name is Tan Nguyen Le! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
-<p><em>Pursuing Bachelor from <a href="https://en.hcmus.edu.vn/">University of Science, Ho Chi Minh City, VietNam</a>
-  <br>Portfolio: <a href = "https://tannguyenle.info/about/">https://tannguyenle.info</a>
+<p><em>Bachelor of <a href="https://en.hcmus.edu.vn/">University of Science, Ho Chi Minh City, VietNam</a>
+<br>Portfolio: <a href = "https://tannguyenle.info/about/">https://tannguyenle.info</a>
 </em></p>
 
 <img align='right' src="https://github.com/nguyenletan/nguyenletan/blob/master/boy2.png" width="338">
