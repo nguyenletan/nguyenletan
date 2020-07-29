@@ -1,10 +1,10 @@
 <h2> Hi, My name is Tan Nguyen Le! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
-<img align='right' src="https://github.com/nguyenletan/nguyenletan/blob/master/boy3.png" width="300">
 <p><em>Pursuing Bachelor from <a href="https://en.hcmus.edu.vn/">University of Science, Ho Chi Minh City, VietNam</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-  <br>Portfolio <a href = "https://tannguyenle.info/about/">Link </a><img src = "https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width = "30">
+  <br>Portfolio: <a href = "https://tannguyenle.info/about/">https://tannguyenle.info</a><img src = "https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width = "30">
 </em></p>
 
-  
+<img align='right' src="https://github.com/nguyenletan/nguyenletan/blob/master/boy3.png" width="300">
+
 ```js
 
 export default () => ({
