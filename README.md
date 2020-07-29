@@ -3,7 +3,7 @@
   <br>Portfolio: <a href = "https://tannguyenle.info/about/">https://tannguyenle.info</a><img src = "https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width = "30">
 </em></p>
 
-<img align='right' src="https://github.com/nguyenletan/nguyenletan/blob/master/boy2.png" width="310">
+<img align='right' src="https://github.com/nguyenletan/nguyenletan/blob/master/boy2.png" width="330">
 
 ```js
 
