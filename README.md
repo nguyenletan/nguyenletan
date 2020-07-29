@@ -32,7 +32,7 @@ export default () => ({
 
 [![Tan Nguyen Le's github stats](https://github-readme-stats.vercel.app/api?username=nguyenletan&hide=["prs"])](https://github.com/anuraghazra/github-readme-stats)
 
-<img align='right' src="https://github.com/nguyenletan/nguyenletan/blob/master/inbox-zero.svg" width="338">
+<img src="https://github.com/nguyenletan/nguyenletan/blob/master/inbox-zero.svg">
 
 <a href="mailto:souvikghosh199831@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nguyenletan@gmail.com" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/tan-nguyen-le-b3797023/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
