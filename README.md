@@ -1,5 +1,5 @@
 <h2> Hi, My name is Tan Nguyen Le! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
-<p><em>Bachelor of <a href="https://en.hcmus.edu.vn/">University of Science, Ho Chi Minh City, VietNam</a>
+<p><em>Bachelor of <a href="https://en.hcmus.edu.vn/">University of Science, Saigon, VietNam</a>
 <br>Portfolio: <a href = "https://tannguyenle.info/about/">https://tannguyenle.info</a>
 </em></p>
 
